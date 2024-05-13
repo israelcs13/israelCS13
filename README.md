@@ -1,20 +1,9 @@
-### Hi there 👋
+### Hi there 👋, my name is Israel
+#### I'd like to get into web programming
+Learning Coding Through a Bootcamp
 
-<!--
-**israelcs13/israelCS13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on this page. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Section - About Me
-Current Stack
-Contact
-Github stats (Optional)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Contact: israelcarrasco69@gmail.com)  
+
